@@ -1,6 +1,8 @@
 Update
 ======
 
+My conpleted JavaScript Koans
+
 > If you like JavaScript Koans you might enjoy my newer, more user friendly, project [Didacto: JavaScript](http://javascript.didacto.net/)
 
 JavaScript Koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence. 
